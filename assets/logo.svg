@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Logo Altre Menti: due profili di testa che si incontrano dentro un cerchio doppio</title>
+  <!-- Cerchio doppio: oro esterno, bianco interno -->
+  <circle cx="100" cy="100" r="97" fill="#B78D3F"/>
+  <circle cx="100" cy="100" r="89" fill="#FFFFFF"/>
+  <!-- Profilo sinistro (guarda a sinistra) -->
+  <path fill="#2C3459" d="M82 58c-14 0-26 9-30 22l-6 3c-2 1-2 3 0 4l5 2v8c0 3 2 5 5 5h4v12c0 4 3 7 7 7h15c17 0 31-14 31-31.5S99 58 82 58z"/>
+  <!-- Profilo destro (guarda a destra) -->
+  <path fill="#2C3459" d="M118 58c14 0 26 9 30 22l6 3c2 1 2 3 0 4l-5 2v8c0 3-2 5-5 5h-4v12c0 4-3 7-7 7h-15c-17 0-31-14-31-31.5S101 58 118 58z"/>
+  <!-- Area di intersezione: la lente dorata, cuore concettuale del logo -->
+  <path fill="#B78D3F" d="M100 63.5c8 6 13 15.5 13 26S108 109.5 100 115.5c-8-6-13-15.5-13-26S92 69.5 100 63.5z"/>
+</svg>
